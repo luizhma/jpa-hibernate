@@ -1,4 +1,4 @@
-# jpa-hibernate
+# JPA & Hibernate.
 
 ## Tecnologias utilizadas: Spring Boot, Spring Data, JPA, Hibernate e MySQL.
 
